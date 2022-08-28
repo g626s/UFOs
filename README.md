@@ -60,4 +60,8 @@ To access the webpage you can click the link here below:
 
 Using JavaScript, we replaced the `handleClick()` function in our [app.js](https://github.com/g626s/UFOs/blob/main/static/js/app.js) file with a new function that saves the element, value, and id of the filter that was changed. We then created a new function to loop through the [data.js](https://github.com/g626s/UFOs/blob/main/static/js/data.js) file and keep only the results that match the search criteria. The webpage will be updated with the search criteria after pressing "Enter".
 
+* The `UFO Sightings` website displays the selected data in the design and structure of a dynamic table with UFO's Sighting `date`, `city`, `state`, `country`, `shape`, `duration`, and `comments` of the UFO and description of the event.
+* The `UFO Sightings` website was designed using JavaScript and HTML/CSS in addition to incorporating Bootstrap components for personalized stylization.
+* To interact and navigate through the website, users would click on the input boxes provided to the left and enter a valid text-option for the category to be filtered. If you enter a incorrect fitler or a variable that does not exist in the data, an empty table will populate as a result. See reference images below:
+
 ## Summary
