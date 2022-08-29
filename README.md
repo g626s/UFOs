@@ -64,4 +64,19 @@ Using JavaScript, we replaced the `handleClick()` function in our [app.js](https
 * The `UFO Sightings` website was designed using JavaScript and HTML/CSS in addition to incorporating Bootstrap components for personalized stylization.
 * To interact and navigate through the website, users would click on the input boxes provided to the left and enter a valid text-option for the category to be filtered. If you enter a incorrect fitler or a variable that does not exist in the data, an empty table will populate as a result. See reference images below:
 
+* <p align="center">
+  <img width="1013" alt="Screen Shot 2022-08-28 at 4 10 44 PM" src="https://user-images.githubusercontent.com/107281474/187116180-c4de33e0-bd8a-4d18-b079-e89367769bfd.png">
+</p>
+
+* <p align="center">
+  <img width="1013" alt="Screen Shot 2022-08-28 at 4 09 56 PM" src="https://user-images.githubusercontent.com/107281474/187116291-125a2552-bdb9-49d1-8302-8fd08a7ce4ac.png">
+</p>
+
+* <p align="center">
+  <img width="1013" alt="Screen Shot 2022-08-28 at 4 11 12 PM" src="https://user-images.githubusercontent.com/107281474/187116351-381cb951-c398-42ee-a680-13d651aa01b5.png">
+</p>
+
 ## Summary
+From this website's new design and user interface, one major drawback from this new implementation is that the JavaScript dataset incorporated only sightings within the US region and not worldwide that will in turn marginalize the scope of the audience and the website's reach worldwide. 
+* One recommendation could be to create a live database online and share the database funnel on community websites  to collect more data online and funnel the new data it in the same data.js file. 
+* A second recommendation would be to parse this new data and incorporate ETL methods to validate and polish the data that will be periodically updated on the website as well as incorporate more aesthetically pleaseing and complex JavaScript and Bootstrap components. 
