@@ -79,4 +79,4 @@ Using JavaScript, we replaced the `handleClick()` function in our [app.js](https
 ## Summary
 From this website's new design and user interface, one major drawback from this new implementation is that the JavaScript dataset incorporated only sightings within the US region and not worldwide that will in turn marginalize the scope of the audience and the website's reach worldwide. 
 * One recommendation could be to create a live database online and share the database funnel on community websites  to collect more data online and funnel the new data it in the same data.js file. 
-* A second recommendation would be to parse this new data and incorporate ETL methods to validate and polish the data that will be periodically updated on the website as well as incorporate more aesthetically pleaseing and complex JavaScript and Bootstrap components. 
+* A second recommendation would be to parse this new data and incorporate ETL methods to validate and polish the data that will be periodically updated on the website as well as incorporate more aesthetically pleasing and complex JavaScript and Bootstrap components. 
